@@ -1,0 +1,10 @@
+{
+  "name": "api-backend-exercise02",
+  "main": "server",
+  "scripts": {
+    "start": "node server"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
